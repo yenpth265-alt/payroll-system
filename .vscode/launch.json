@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "payroll.Main",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Run Payroll System",
+            "request": "launch",
+            "mainClass": "payroll.Main",
+            "projectName": "Payroll System",
+            "vmArgs": "-Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8"
+        }
+    ]
+}
